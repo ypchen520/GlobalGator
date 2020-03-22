@@ -1,2 +1,2 @@
 # GlobalGator
-'''A safe place for learning English'''
+```A safe place for learning English```
